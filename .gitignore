@@ -1,0 +1,8 @@
+# IDE
+.idea
+
+# terraform
+**/.terraform/*
+
+*.tfstate
+*.tfstate.*
