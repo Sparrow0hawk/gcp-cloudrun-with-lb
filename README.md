@@ -1,5 +1,7 @@
 # Google Cloud Run with load balancer
 
+This uses Google's [HTTPS load balancer with Serverless NEG backend example](https://github.com/terraform-google-modules/terraform-google-lb-http/tree/master/examples/cloudrun).
+
 ## Setup
 
 To use this you will need:
